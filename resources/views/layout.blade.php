@@ -7,5 +7,5 @@
 
 
 <body>
-   {{ $content }}
+ @yield('content')
 </body>
